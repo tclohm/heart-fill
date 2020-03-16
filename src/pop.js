@@ -32,4 +32,4 @@ function Heart({ color, time }) {
   )
 }
 
-export default Demo;
+export default Heart;
